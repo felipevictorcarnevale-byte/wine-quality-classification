@@ -105,29 +105,6 @@ wine-quality-classification/
 
 ---
 
-## Como executar
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/<seu-usuario>/wine-quality-classification.git
-   cd wine-quality-classification
-   ```
-2. (Opcional) Crie e ative um ambiente virtual:
-   ```bash
-   python -m venv .venv
-   source .venv/bin/activate      # Windows: .venv\Scripts\activate
-   ```
-3. Instale as dependências:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Abra o notebook:
-   ```bash
-   jupyter notebook notebooks/Pos_Projeto_2.ipynb
-   ```
-
----
-
 ## Tecnologias
 
 Python · pandas · scikit-learn · XGBoost · imbalanced-learn (SMOTE) · Plotly · Matplotlib · Seaborn · kagglehub
@@ -138,4 +115,4 @@ Python · pandas · scikit-learn · XGBoost · imbalanced-learn (SMOTE) · Plotl
 
 Projeto desenvolvido para o Tech Challenge — Fase 2 (POSTECH).
 
-*Preencha aqui os nomes dos integrantes do grupo.*
+Felipe Carnevale Fornaziero
